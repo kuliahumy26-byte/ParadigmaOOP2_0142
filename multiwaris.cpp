@@ -40,3 +40,8 @@ public:
     }
 };
 
+int main() {
+    budi a(20);
+    
+    return 0;
+}
