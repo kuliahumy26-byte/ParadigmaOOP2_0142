@@ -7,3 +7,14 @@ class AbstraksiKls{
 
     //
     //
+    void setXY(string a, string b){
+        x = a;
+        y = b;
+    }
+    //
+    void display(){
+        cout << "Nilai x: " << x << endl;
+        cout << "Nilai y: " << y << endl;
+    }
+};
+
